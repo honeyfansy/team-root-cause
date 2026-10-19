@@ -1,0 +1,9 @@
+node_modules
+dist
+*.tsbuildinfo
+.env
+*.local.json
+.claude/
+.serena/
+llm.config.json
+.DS_Store
